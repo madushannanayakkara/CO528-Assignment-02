@@ -19,7 +19,7 @@ This is a simple angle selector implemented using HTML, CSS, and JavaScript. It 
 
 Check out the live demo of the angle selector hosted at the following URL:
 
-[Angle Selector Demo](https://your-hosted-url.com)
+[Angle Selector Demo](https://madushannanayakkara.github.io/CO528-Assignment-02-Task-01/)
 
 ## Project Structure
 
